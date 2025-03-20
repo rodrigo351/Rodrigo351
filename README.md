@@ -13,9 +13,11 @@ Além do desenvolvimento profissional, busco constantemente me desenvolver no â
 
 ---  
 <div>
- <a hre"https://www.linkedin.com/in/rodrigo-santos-29310029b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rodrigo-santos-29310029b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
 </div>
-  
+
 
 ### 🤖 Linguagens e Tecnologias
 
